@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Berlin", "Madrid", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["1", "2", "3", "5"],
+      "answer": "2"
+    },
+    {
+      "question": "Which programming language is known as the backbone of web development?",
+      "options": ["Python", "JavaScript", "C++", "Ruby"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2", "H2O", "CO2"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who wrote the novel '1984'?",
+      "options": ["George Orwell", "Mark Twain", "Jane Austen", "J.K. Rowling"],
+      "answer": "George Orwell"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Gold", "Osmium", "Oganesson"],
+      "answer": "Oxygen"
+    }
+  ]
+  
